@@ -103,7 +103,7 @@ ul.info {
 	padding-bottom: 12px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 992px) {
 	.grid-container {
 		max-height: none;
 	}
